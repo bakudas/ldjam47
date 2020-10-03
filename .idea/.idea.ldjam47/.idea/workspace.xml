@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/Assets/src/Character/FirstPersonCharacter/Scripts/MouseLook.cs" />
         <option value="$PROJECT_DIR$/Assets/src/Character/FirstPersonCharacter/Scripts/HeadBob.cs" />
         <option value="$PROJECT_DIR$/Assets/src/Character/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/src/Scripts/cameraPOV.cs" />
+        <option value="$PROJECT_DIR$/Assets/src/Scripts/CamTriggerRoom.cs" />
       </list>
     </option>
   </component>
@@ -67,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601698149963</updated>
-      <workItem from="1601698157223" duration="950000" />
+      <workItem from="1601698157223" duration="3209000" />
     </task>
     <servers />
   </component>
