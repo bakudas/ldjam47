@@ -6,7 +6,10 @@ using UnityEngine;
 public class cameraPOV : MonoBehaviour
 {
 
-    public Animator camAnimator;
+    public string cameraToSwitch;
+    public bool estaQuebrada;
+    private bool estaIndo;
+    private Animator camAnimator;
 
     private void Start()
     {
@@ -15,11 +18,11 @@ public class cameraPOV : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        camAnimator.SetBool("camera3", true);
+        camAnimator.SetBool(cameraToSwitch, true);
     }
 
     private void OnTriggerExit(Collider other)
     {
-        camAnimator.SetBool("camera3", false);
+        camAnimator.SetBool(cameraToSwitch, false);
     }
 }
