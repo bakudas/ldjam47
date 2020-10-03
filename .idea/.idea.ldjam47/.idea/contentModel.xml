@@ -25,6 +25,9 @@
               <e p="ThirdPersonCharacterGuidelines.txt" t="Include" />
             </e>
           </e>
+          <e p="Scripts" t="Include">
+            <e p="cameraPOV.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="ldjam47.sln" t="IncludeFlat" />
