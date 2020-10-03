@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/regador.obj-53770863f00823851cfd1d472bb17e44.mesh"
+
+[deps]
+
+files=[ "res://.import/regador.obj-53770863f00823851cfd1d472bb17e44.mesh" ]
+
+source_file="res://src/models/tools/regador.obj"
+dest_files=[ "res://.import/regador.obj-53770863f00823851cfd1d472bb17e44.mesh", "res://.import/regador.obj-53770863f00823851cfd1d472bb17e44.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

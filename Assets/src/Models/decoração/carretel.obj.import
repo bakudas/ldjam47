@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carretel.obj-9a2f36301a6683025998c0875a585326.mesh"
+
+[deps]
+
+files=[ "res://.import/carretel.obj-9a2f36301a6683025998c0875a585326.mesh" ]
+
+source_file="res://src/models/decoração/carretel.obj"
+dest_files=[ "res://.import/carretel.obj-9a2f36301a6683025998c0875a585326.mesh", "res://.import/carretel.obj-9a2f36301a6683025998c0875a585326.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
